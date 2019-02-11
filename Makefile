@@ -94,7 +94,7 @@ CONFIG_AP_WOWLAN = n
 CONFIG_RTW_SDIO_PM_KEEP_POWER = y
 ###################### MP HW TX MODE FOR VHT #######################
 # Floating point hardware
-CONFIG_MP_VHT_HW_TX_MODE = y
+CONFIG_MP_VHT_HW_TX_MODE = n
 ###################### Platform Related #######################
 CONFIG_PLATFORM_I386_PC = n
 CONFIG_PLATFORM_BCM2709 = n
